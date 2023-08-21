@@ -1,0 +1,9 @@
+[설명]
+HTML,CSS,JavaScript,php를 이용하여 포트폴리오 사이트를 구현한 프로젝트입니다.
+
+[보충 설명]
+원래는 Mysql,DB를 사용하려 했으나 Mysql,DB를 사용하지 않고 단순 PHP로만 구현을 하
+였으며, 메인화면 페이지, 프로젝트 페이지 , 프로젝드(작성,수정,삭제) 구현을 하였습니다.
+
+WAMP인 C:\Bitnami\wampstack-8.1.8-0\apache2\htdocs\test_site 경로에
+압축파일을 해제하여 서버를 열고 확인하시면 됩니다.
